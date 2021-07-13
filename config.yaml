@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        language: 3
+        BERT: 3
+        Transformer: 3
+        Chat: 1
 
 # 通知の閾値
 score_threshold: 0
