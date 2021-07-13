@@ -9,6 +9,7 @@ keywords:
         chat: 1
         GAN: 3
         Reinforcement Learning: 2
+        Vision and Language: 2
 
 # 通知の閾値
 score_threshold: 0
