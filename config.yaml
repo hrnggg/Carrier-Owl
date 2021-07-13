@@ -6,7 +6,9 @@ keywords:
         language: 3
         BERT: 3
         Transformer: 3
-        Chat: 1
+        chat: 1
+        GAN: 3
+        Reinforcement Learning: 2
 
 # 通知の閾値
 score_threshold: 0
